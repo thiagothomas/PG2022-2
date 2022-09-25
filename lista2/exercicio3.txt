@@ -1,0 +1,1 @@
+Ao modificar a janela do mundo para os limites xmin=0, xmax=800, ymin=600, ymax=0, a origem começa no canto superior esquerdo.
